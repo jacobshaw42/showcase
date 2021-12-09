@@ -1,7 +1,7 @@
 # showcase
 This repository is mainly for showcasing work and skills.
 
-Currently, the contents are strictly for the IUNI Interview Assignment.
+Currently, the contents are mostly for IUNI Assignment.
 
 Once the repository has been obtained, simply run the api-log.py script using python3.
 
