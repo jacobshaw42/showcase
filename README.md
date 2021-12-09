@@ -1,2 +1,2 @@
 # showcase
-For Interview Assignment
+For showcasing work and skills
